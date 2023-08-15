@@ -7,4 +7,5 @@ I’m currently learning
 >_web development_
 
 You can contact me in 
->_Facebook:_ [Adrian Noces](https://www.facebook.com/adriannotforyou) and _Gmail:_ noceskennethadrianoria@gmail.com
+>_Facebook:_ [Adrian Noces](https://www.facebook.com/adriannotforyou)  
+>_Gmail:_ noceskennethadrianoria@gmail.com
