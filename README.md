@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AdrianNoces
-- 👀 I’m interested in mobile app development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, [Gmail](noceskennethadrianoria@gmail.com), [Facebook](https://www.facebook.com/adriannotforyou)
+- Hi, I’m _@AdrianNoces_,
+- I’m interested in _mobile app_ and _game development_ ,
+- I’m currently learning _web development_
+- You can contact me in [Facebook](https://www.facebook.com/adriannotforyou) and Gmail: noceskennethadrianoria@gmail.com
